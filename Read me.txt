@@ -1,0 +1,31 @@
+Hello, this is ashish here i will explain you can run this 
+
+first of all you have to download it from my respo as a zip file and extract it then 
+open that folder into VScode and in the vs code terminal (ctrl+Shift+`) this command will open the vs code terminal
+and in the terminal please install npm module file by entering 
+npm init 
+this command install all the neccesary modules in your system
+then after doing all this now you are ready to use 
+
+now in the terminal please enter npm start 
+this command run the application and then go to any browser and enter
+localhost:8008
+this url take you to the home page of the application 
+in the home page you will find a url shortnere input tag where you enter any URl and then click 
+on shrink button this will make the url shorter and dispplay ur shorter URL in the below table
+
+now from the shorter URL you can redirect to original URL by entering 
+localhost:8008/shorturlcode 
+shorturl code is 5 charcter which will you get from the table in home page
+
+after enter the url hit enter you will redirect to original url page or you can directly click to the table 
+in the home page for easy access.
+
+now when you enter the shorter url in the url  then bbefore redirecting to web page ur country name, ip address , browser name, OS name and time of entering will store in the cookies.
+
+if you enter localhost:8008/shortcode+  
+then you will redirect to the detail page of the short url where you will find created date of the url totoal number of visits 
+
+if you enter localhost:8008/dashboard then you will redirect to dash board of the short urls where you find all the short url and there details 
+
+thankyou
